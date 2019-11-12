@@ -13,6 +13,7 @@ export {generic} from './generic';
 export {abap} from './abap';
 export {assembly} from './assembly';
 export {avrassembly} from './avr-assembly';
+export {cleo} from './cleo';
 export {cpp} from './cpp';
 export {csharp} from './csharp';
 export {css} from './css';
